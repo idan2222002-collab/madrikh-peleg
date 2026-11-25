@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://idan2222002-collab.github.io/madrikh-peleg/sitemap.xml
