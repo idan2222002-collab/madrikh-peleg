@@ -90,3 +90,13 @@ footer { border-top: 1px solid var(--line); padding: 1.5rem 0 2.4rem; font-size:
 @media (max-width: 700px) {
   nav a:not(.home) { display: none; }
 }
+
+.product-box {
+  background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+  padding: 1.1rem 1.2rem; margin: 0 0 1.5rem;
+}
+.product-box h2 { margin: 0 0 0.5rem; font-size: 1.15rem; }
+.product-box ul { margin: 0 0 0.45rem; padding-inline-start: 1.2rem; }
+.product-box li { margin: 0.15rem 0; }
+.product-box p { margin: 0.35rem 0 0; }
+.product-box .fine { color: var(--muted); margin-top: 0.6rem; }
